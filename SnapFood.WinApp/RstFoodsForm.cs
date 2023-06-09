@@ -117,6 +117,7 @@ namespace SnapFood.WinApp
 
         private void BtnEdit_Click(object sender, EventArgs e)
         {
+            //ch
             TxtNam.Enabled = true;
             TxtPrice.Enabled = true;
             TxtNam.BackColor = Color.FromArgb(255, 255, 255);
